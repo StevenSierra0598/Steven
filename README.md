@@ -1,2 +1,1 @@
-# Steven
-Este es un repositorio del modulo2 del Precourse de Henry 
+Este proyecto es una prueba de como crear un repositorio desde Github
